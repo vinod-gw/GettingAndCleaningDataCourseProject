@@ -86,5 +86,9 @@ xTestData is a data.frame containing 2947 observations of 561 variables, the des
 xTrainData is a data.frame containing 7352 observations of 561 variables, the descriptive variable names  
 combinedXData is a data.frame containing 10299 observations of 561 variables, the descriptive variable names  
 
+yTestData is a data.frame containing 2947 observations of 1 variable, the activity  
+yTrainData is a data.frame containing 7352 observations of 1 variable, the activity   
+combinedYData is a data.frame containing 10299 observations of 1 variable, the activity   
+
 
 
