@@ -54,7 +54,7 @@ Lines 52-56 create the second tidy data set containing the "means of the means" 
 
 Line 59 is included to show the code to write the second tidy data set out in the required text format for assignment upload.
 
-Line 60 is included as sample code if an evaluator wished to read in the text file created in previous step.
+Line 62 is included as sample code if an evaluator wished to read in the text file created in previous step.
 
 
 
