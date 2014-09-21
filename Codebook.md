@@ -1,3 +1,8 @@
-## Getting and Cleaning Data Course Project
+## Getting and Cleaning Data -- Course Project
 
-### Codebook
+
+### Codebook Description
+
+#### Overview of Raw Data
+
+
