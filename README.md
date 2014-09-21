@@ -48,9 +48,9 @@ Lines 40-44 sort the single data set by subject and writes out a file for refere
 
 Lines 46-50 extract the mean and std measurements from the sorted single data set and places them into a working data set preparing for creation of a second tidy data set. Step 2 is complete at this point. Additionally a file is written out with this data for reference.
 
-Lines 52-56 create the second tidy data set and also write out to a file for reference. Step 5 is complete at this point.
+Lines 52-56 create the second tidy data set containing the "means of the means" for each variable of each activity for each subject, and also writes out to a file for reference. Step 5 is complete at this point.
 
-Assignment is complete at this point.
+### Assignment is complete at this point.
 
 Line 59 is included to show the code to write the second tidy data set out in the required text format for assignment upload
 
