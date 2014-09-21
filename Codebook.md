@@ -1,9 +1,7 @@
 ## Getting and Cleaning Data -- Course Project
 
 
-### Codebook Description
-
-#### Original Data Source and Description
+### Codebook Original Data Source and Description
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
@@ -75,5 +73,18 @@ Use of this dataset in publications must be acknowledged by referencing the foll
 This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
+
+### Description of Defined Variables in run_analysis.R
+
+dataLocation is the current working directory containing the R script, the source data, and the output files  
+
+subjectTestData is a data.frame containing 2947 observations of 1 variable, the subject  
+subjectTrainData is a data.frame containing 7352 observations of 1 variable, the subject  
+combinedSubjectData is a data.frame containing 10299 observations of 1 variable, the subject  
+
+xTestData is a data.frame containing 2947 observations of 561 variables, the descriptive variable names  
+xTrainData is a data.frame containing 7352 observations of 561 variables, the descriptive variable names  
+combinedXData is a data.frame containing 10299 observations of 561 variables, the descriptive variable names  
+
 
 
