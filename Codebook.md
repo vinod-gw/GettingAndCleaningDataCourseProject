@@ -92,8 +92,17 @@ combinedYData is a data.frame containing 10299 observations of 1 variable, the a
 
 subjectID is the column name assigned to the combinedSubjectData data.frame  
 activity is the column name assigned to the combinedYData data.frame  
-colNamesX are the column names assigned to the combinedXData data.frame  
+colNamesX are the column names assigned to the combinedXData data.frame consisting of 561 observations of 2 variables  
 
+combinedDataset is the data.frame representing the merger of the training and test sets for subjects, descriptive variables and activities containing 10299 observations of 563 variables
+
+activityLabels is the data.frame containing the mapping of the activity number to the activity name    
+
+fullDataset.csv is a csv file containing the fully merged and sorted dataset of subjects, descriptive variables, and activities    
+
+combinedMeanStd is a data.frame containing 10299 observations of 81 variables, the mean and standard deviation subset of the descriptive variables    
+
+MeanAndStandard.csv is a csv file containing the data stored in the combinedMeanStd data.frame  
 
 
 
