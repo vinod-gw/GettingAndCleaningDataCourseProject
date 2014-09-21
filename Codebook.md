@@ -90,5 +90,11 @@ yTestData is a data.frame containing 2947 observations of 1 variable, the activi
 yTrainData is a data.frame containing 7352 observations of 1 variable, the activity   
 combinedYData is a data.frame containing 10299 observations of 1 variable, the activity   
 
+subjectID is the column name assigned to the combinedSubjectData data.frame  
+activity is the column name assigned to the combinedYData data.frame  
+colNamesX are the column names assigned to the combinedXData data.frame  
+
+
+
 
 
