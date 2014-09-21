@@ -102,7 +102,11 @@ fullDataset.csv is a csv file containing the fully merged and sorted dataset of 
 
 combinedMeanStd is a data.frame containing 10299 observations of 81 variables, the mean and standard deviation subset of the descriptive variables    
 
-MeanAndStandard.csv is a csv file containing the data stored in the combinedMeanStd data.frame  
+MeanAndStandard.csv is a csv file containing the data stored in the combinedMeanStd data.frame    
+
+secondTidyDataset is a data.frame containing 180 observations of 80 variables representing the average for each descriptive variable for each activity of each subject  
+
+secondTidyDataset.csv is a csv file containing the data stored in the secondTidyDataset data.frame  
 
 
 
