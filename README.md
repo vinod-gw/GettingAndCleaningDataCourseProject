@@ -22,10 +22,7 @@ You should create one R script called run_analysis.R that does the following:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ### NOTE 1
-David Hood, TA for this class provided an excellent pictorial diagram of data relationships for this assignment. The diagram titled "David_Hood_Diagram" is included in this repo for review. This diagram forms the basis for the underlying script code logic. If you do not understand this diagram, for the benefit of both of us, please skip evaluating my work.
-
-### NOTE 2
-The script makes certain assumptions which are commented in the code. Essentially I assume the evaluator knows how to download and extract a zip file to their working R directory and add packages to their development environment. Also, if you wish to download and read the submitted tidy data set "Step5TidyDataset.txt" familiarity with read.table() is required. The read.table() code is included in the script file. Downloading the tidy data set is dependent on operating system and browser used. Typically a right click and download option will suffice.
+David Hood, TA for this class provided an excellent pictorial diagram of data relationships for this assignment. The diagram titled "David_Hood_Diagram" is included in this repo for review. This diagram forms the basis for the underlying script code logic.
 
 
 ### SUMMARY OF "run_analysis.R" SCRIPT
