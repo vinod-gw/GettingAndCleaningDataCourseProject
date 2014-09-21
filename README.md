@@ -29,3 +29,35 @@ The script makes certain assumptions which are commented in the code. Essentiall
 
 
 ### SUMMARY OF "run_analysis.R" SCRIPT
+
+Please refer to the codebook for decriptions of variable names and assignment results
+
+Line 7 contains code to obtain the current working directory. Normally this is not necessary assuming proper placement of data files, but is included for the sake of completeness
+
+Line 10 loads the plyr library which us used for the ddply call when creating the second tidy data set
+
+Lines 12-25 preprocess and combine the subject, X and y test and training data files into three distinctive datasets in preparation for a full merge
+
+Lines 27-31 provide descriptive variable names to the distinctive data sets as required in Step 4
+
+Line 34 performs an initial merge of the now descriptively labled preprocessed files into a single file. Technically this completes Step 1 but additional processing is performed later in the script to produce a more user friendly format
+
+Lines 36-38 convert the y number codes into descriptive activity names as required in Step 3 for the single data set created above
+
+Lines 40-44 sort the single data set by subject and writes out a file for reference. Step 1 is complete at this point
+
+Lines 46-50 extract the mean and std measurements from the sorted single data set and places them into a working data set preparing for creation of a second tidy data set. Step 2 is complete at this point. Additionally a file is written out with this data for reference.
+
+Lines 52-56 create the second tidy data set and also write out to a file for reference. Step 5 is complete at this point.
+
+Assignment is complete at this point.
+
+Line 59 is included to show the code to write the second tidy data set out in the required text format for assignment upload
+
+Line 60 is included as sample code if an evaluator wished to read in the text file created in previous step
+
+Line 59 
+
+
+
+
