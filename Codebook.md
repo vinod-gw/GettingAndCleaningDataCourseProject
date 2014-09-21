@@ -108,6 +108,7 @@ secondTidyDataset is a data.frame containing 180 observations of 80 variables re
 
 secondTidyDataset.csv is a csv file containing the data stored in the secondTidyDataset data.frame  
 
+Step5TidyDataset.txt is a text file containing the secondTidyDataset data.frame for uploading into the course project editor  
 
 
 
