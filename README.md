@@ -23,5 +23,8 @@ You should create one R script called run_analysis.R that does the following:
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+### NOTE 1
+David Hood, TA for this class provided an excellent pictorial diagram of data relationships for this assignment. The diagram titled "David_Hood_Diagram" is included in this repo for review. This diagram forms the basis for the underlying script code logic. If you do not understand this diagram, for the benefit of both of us, please skip evaluating my work.
+
 
 ### SUMMARY OF "run_analysis.R" SCRIPT
